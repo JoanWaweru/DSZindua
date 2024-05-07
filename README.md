@@ -1,0 +1,2 @@
+- currently learning Data Science
+- includes all my weekly and capstone projects
